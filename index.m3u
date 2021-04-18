@@ -1,5 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Tia Retrô" tvg-name="TR - Primeiras" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="",Tia Retrô
+https://youtu.be/TDnhT70Crds
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-country="EM" tvg-language="English" tvg-logo="" group-title="",Al Jazeera
 https://www.youtube.com/watch?v=-upyPouRrB8&ab_channel=AlJazeeraEnglish
-#EXTINF:-1 tvg-id="Tia Retrô" tvg-name="Tia Retrô - Primeiras livestreams" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="",Tia Retrô
-https://youtu.be/TDnhT70Crds
